@@ -5,15 +5,14 @@ function App() {
   const bart = {
     image: "https://www.stickees.com/files/cartoon/the-simpsons/2239-bart-simpson-.png",
     firstName: "Bart",
-    lastName: "Simpson"
+    lastName: "Simpson",
+    star: true
   };
   const cletus = {
-    image: "https://www.generatormix.com/images/simpsons/cletus-spuckler-.jpg",
     firstName: "Cletus",
     lastName: "Spuckler"
   };
   const krusty = {
-    image: "https://www.generatormix.com/images/simpsons/krusty-the-clown.jpg",
     firstName: "Krusty",
     lastName: "The Clown"
   };
